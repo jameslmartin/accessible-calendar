@@ -1,0 +1,14 @@
+{
+    "name": "accessible-calendar",
+    "description": "Making Karthik's life easier, one hack at a time.",
+    "version": "0.0.1",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jameslmartin/accessible-calendar.git"
+    },
+    "dependencies": {
+        "googleapis": "*",
+        "google-auth-library": "*"
+    }
+}
